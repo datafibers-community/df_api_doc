@@ -1,0 +1,25 @@
+{
+  "name": "Welcome DataFibers Data Service API",
+  "version": "0.1.1",
+  "description": "DataFibers REST Service Specification.",
+  "title": "DataFibers REST Service Specification",
+  "url" : "http://localhost:8080/api/df",
+  "header": {
+    "title": "DF Guide",
+    "filename": "header.md"
+  },
+  "footer": {
+    "title": "DF Website",
+    "filename": "footer.md"
+  },  
+  "order": [
+    "All",
+    "Connect",
+    "Transform",
+    "Schema"
+  ],
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
